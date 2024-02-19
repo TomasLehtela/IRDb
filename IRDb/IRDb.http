@@ -1,0 +1,6 @@
+@IRDb_HostAddress = http://localhost:5196
+
+GET {{IRDb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
